@@ -5,7 +5,7 @@
  \__ \ || (_) | |_) |_____| | |_ 
  |___/\__\___/| .__/      |_|\__|
               |_|                
-  AUTHOR: Frederick Verbruggen 
+  AUTHOR: Frederick Verbruggen.
   Description: This is a basic version of the stop-signal task. 
 """
 #####################################################################
